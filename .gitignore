@@ -1,9 +1,11 @@
+# Local agent instructions
 AGENTS.md
 
+# Secrets
 config.json
+mysql.php
 
+# Local/system temporary files
 .DS_Store
 *.bak_*
 *.remote.php
-
-mysql.php
