@@ -5,3 +5,5 @@ config.json
 .DS_Store
 *.bak_*
 *.remote.php
+
+mysql.php
